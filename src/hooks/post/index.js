@@ -1,0 +1,1 @@
+export {PostItemHooks} from './post-item-hooks'

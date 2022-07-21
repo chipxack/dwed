@@ -1,0 +1,1 @@
+export {deleteConfirm} from './organisms'

@@ -1,0 +1,1 @@
+export {QRCodeScanFromWebCam, QRCodeScanFromPhoto} from './organisms'

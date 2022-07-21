@@ -1,0 +1,2 @@
+import {httpGet} from "../api";
+

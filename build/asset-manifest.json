@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1fa8bda.chunk.css",
+    "main.js": "/static/js/main.48f85a96.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.6dbce532.js",
+    "static/css/2.39c6cf49.chunk.css": "/static/css/2.39c6cf49.chunk.css",
+    "static/js/2.d6378ee0.chunk.js": "/static/js/2.d6378ee0.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.d6378ee0.chunk.js.LICENSE.txt": "/static/js/2.d6378ee0.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.2861ce4f.png",
+    "static/media/10.png": "/static/media/10.798125fb.png",
+    "static/media/2.png": "/static/media/2.b06662b3.png",
+    "static/media/3.png": "/static/media/3.28412141.png",
+    "static/media/4.png": "/static/media/4.dca2306c.png",
+    "static/media/5.png": "/static/media/5.e51411b3.png",
+    "static/media/6.png": "/static/media/6.487d8a27.png",
+    "static/media/7.png": "/static/media/7.f7d2aea0.png",
+    "static/media/8.png": "/static/media/8.2ed6c010.png",
+    "static/media/9.png": "/static/media/9.c49c642e.png",
+    "static/media/DWED.94196151.png": "/static/media/DWED.94196151.png",
+    "static/media/index.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/back.828977d1.png": "/static/media/back.828977d1.png",
+    "static/media/coupon_bg.79c2ddd2.svg": "/static/media/coupon_bg.79c2ddd2.svg",
+    "static/media/example1.3f2c8bb6.jpg": "/static/media/example1.3f2c8bb6.jpg",
+    "static/media/example2.78cea47e.jpg": "/static/media/example2.78cea47e.jpg",
+    "static/media/fake-qr.932984a6.png": "/static/media/fake-qr.932984a6.png",
+    "static/media/humo-color.6a3b5c71.svg": "/static/media/humo-color.6a3b5c71.svg",
+    "static/media/humo.2760f967.svg": "/static/media/humo.2760f967.svg",
+    "static/media/istockphoto-1216251206-612x612.1216592c.jpg": "/static/media/istockphoto-1216251206-612x612.1216592c.jpg",
+    "static/media/payme-logo.063fc10e.svg": "/static/media/payme-logo.063fc10e.svg",
+    "static/media/powered_by_payme.c23bdd3e.svg": "/static/media/powered_by_payme.c23bdd3e.svg",
+    "static/media/qr.3e563239.svg": "/static/media/qr.3e563239.svg",
+    "static/media/uzcard-color.2502cac8.svg": "/static/media/uzcard-color.2502cac8.svg",
+    "static/media/uzcard.59e77055.svg": "/static/media/uzcard.59e77055.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dbce532.js",
+    "static/css/2.39c6cf49.chunk.css",
+    "static/js/2.d6378ee0.chunk.js",
+    "static/css/main.e1fa8bda.chunk.css",
+    "static/js/main.48f85a96.chunk.js"
+  ]
+}
